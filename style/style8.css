@@ -1,0 +1,25 @@
+div.satu {
+  background-image: url("../img/gambar8-2.jpg");
+  width: 620px;
+  height: 330px;
+  color:blue;
+  text-align: right;
+  font-weight: bold;
+  overflow: scroll;
+  background-color: white;
+  background-repeat: repeat-y;
+}
+
+p.dua{
+  text-align: left;
+  color:green;
+}
+
+p.tiga{
+  text-align: center;
+  color:red;
+}
+
+body {
+  background-image: url("../img/gambar8-1.jpg");
+}
